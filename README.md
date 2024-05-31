@@ -14,5 +14,6 @@
  + chat gpt aso gave me a content for the file ,then i staged,commit and push the changes to github.
  i then pushed morgans branch to git hub , i then innitiated a compare and pull request-created a pull request-merge pull request -confirm merge.
  + git branchout -b created a branch for update events , then i updated the title of the events to "Greenwood Library"
- +  
+ +  i used gitt add, git commit to commit my changes ,then git push to update the repository on git hub
++ i pull to github and i merged it all changes  with the main branch. 
  
